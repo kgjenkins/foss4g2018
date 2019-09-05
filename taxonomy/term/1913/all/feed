@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/1913/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>earth observation</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/1913/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/1913/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>How To Image  the Entire Earth Every Day</title>
+    <link>https://2018.foss4g-na.org/session/how-image-entire-earth-every-day</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Planet, a young San Francisco-based company, has put over 150 satellites into space with the goal of imaging the entirety of the earth&#039;s surface once a day. This goal was achieved with the completion of Mission 1 in 2017, and Planet&#039;s unique data set is now transforming how we are able to monitor our world and see changes as they occur.&lt;/p&gt;
+&lt;p&gt;In order to make this imagery accessible, Planet has built a powerful end-to-end system to process data as it arrives on earth and disseminate it to users through the Internet.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/4890&quot;&gt;Benjamin Trigona-Harany (Planet)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/foss4g-use-cases-applications&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;FOSS4G Use Cases &amp;amp; Applications&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 12 Jan 2018 21:02:07 +0000</pubDate>
+ <dc:creator>Benjamin Trigona-Harany (Planet)</dc:creator>
+ <guid isPermaLink="false">2777 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>

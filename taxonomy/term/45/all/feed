@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/45/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Standard</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/45/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/45/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>BoF: Open Google Earth Enterprise Q&amp;A</title>
+    <link>https://2018.foss4g-na.org/bof-session/bof-open-google-earth-enterprise-qa</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Synopsis: The State of Open GEE, Q&amp;amp;A with developers and users, and how to get started&lt;/p&gt;
+&lt;p&gt;Open GEE is now one year old.  We’ll discuss what’s new and what the team has been up to the past year.  We’ll open up the floor for Open GEE Q&amp;amp;A with developers, users, and anyone interested.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 May 2018 16:39:45 +0000</pubDate>
+ <dc:creator>Carissa Camp (Thermopylae Sciences &amp; Technology)</dc:creator>
+ <guid isPermaLink="false">3082 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>BoF: UK Government&#039;s Digital Marketplace - How to tap into the £2.6Bn spent on cloud services by the UK Public Sector</title>
+    <link>https://2018.foss4g-na.org/bof-session/bof-uk-governments-digital-marketplace-how-tap-%C2%A326bn-spent-cloud-services-uk-public</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The UK Government launched the Digital Marketplace (&lt;a href=&quot;https://www.digitalmarketplace.service.gov.uk/&quot; rel=&quot;nofollow&quot;&gt;https://www.digitalmarketplace.service.gov.uk/&lt;/a&gt;) several years ago, and it enables the UK Public Sector to puchase cloud hosting, software and support.&lt;/p&gt;
+&lt;p&gt;To date the UK Public Sector has purchased over £2.6Bn of cloud services (&lt;a href=&quot;https://www.gov.uk/government/collections/digital-marketplace-sales&quot; rel=&quot;nofollow&quot;&gt;https://www.gov.uk/government/collections/digital-marketplace-sales&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In this session I propose that we have a discussion about;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 Apr 2018 13:44:45 +0000</pubDate>
+ <dc:creator>Mark Craddock (Office for National Statistics)</dc:creator>
+ <guid isPermaLink="false">3070 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>BoF: SpaceNet and Geospatial Machine Learning</title>
+    <link>https://2018.foss4g-na.org/bof-session/bof-spacenet-and-geospatial-machine-learning</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Moderator: Todd Bacastow&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Apr 2018 00:16:30 +0000</pubDate>
+ <dc:creator>Josh Sisskind</dc:creator>
+ <guid isPermaLink="false">3066 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>BoF: OSGeo Members Meeting</title>
+    <link>https://2018.foss4g-na.org/bof-session/bof-osgeo-members-meeting</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Open Source Geospatial Foundation board would like to invite you to participate in one of the &quot;Member Meetings&quot; being scheduled 2018!&lt;/p&gt;
+&lt;p&gt;About the idea of OSGeo Member Meetings&lt;/p&gt;
+&lt;p&gt;We would love a chance to talk with you and hope you can attend our meeting at FOSS4G NA (or one of the other events world wide). This is a great possibility to come together with the charter members, to discuss and to get to know each other.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Mar 2018 23:03:53 +0000</pubDate>
+ <dc:creator>Jody Garnett (Boundless)</dc:creator>
+ <guid isPermaLink="false">3047 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>

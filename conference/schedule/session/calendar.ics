@@ -1,0 +1,2115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:FOSS4G NA 2018 - FOSS4G NA is a collaborative event by LocationTech and OSGeo: Session Schedule
+PRODID:-//Drupal iCal API//EN
+BEGIN:VEVENT
+SUMMARY:Working with OpenLayers
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2773@eclipsecon
+DESCRIPTION:OpenLayers provides a full-featured mapping toolkit. Join this workshop to get hands on experience learning how to best make use of the library for your next mapping application.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands-on satellite imagery analysis using Python
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2732@eclipsecon
+DESCRIPTION:Satellite data is more widely available than ever before, and it is now possible for the public to access sub-weekly and even daily imagery of the Earth's entire landmass.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to QGIS 3.x
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2706@eclipsecon
+DESCRIPTION:This is a 3 hour (compressed from 8) introdction to QGIS 3.0. I'v ebeen teaching a QGIS 2 class for a few years. I'm reformatting it for the new QGIS 3.0 release.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From hours to seconds: Multi-dimensional indexing with GeoWave and HBase (sponsored by Radiant Solutions)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2803@eclipsecon
+DESCRIPTION:Participants in this workshop will learn how to use GeoWave’s multidimensional indexing capabilities to preserve spatial and spatial-temporal locality in a distributed key value store.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapping American Community Survey with R
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2863@eclipsecon
+DESCRIPTION:The American Community Survey (ACS) annually collects and disseminates a wealth of demographic and economic data, including race, sex, age, occupation, household income, commuting behavior, disabil
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B2B Networking Event
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+UID:2993@eclipsecon
+DESCRIPTION:The Business to Business (B2B) Networking Event is THE place during FOSS4G North America for organizations to
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome &amp; Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T133000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+UID:2994@eclipsecon
+DESCRIPTION:Welcome to FOSS4G NA 2018!
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May the FOSS Be With You: Building Alliances through Open Source Development (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T134500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+UID:3020@eclipsecon
+DESCRIPTION:Mark Munsell, Deputy Director of the Chief Information Officer -- Information Services Directorate of the National Geospatial-Intelligence Agency, will discuss the benefits of open source developme
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T143000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Very Best New Features of QGIS v3.0
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2885@eclipsecon
+DESCRIPTION:Come and see a tour of the best features of QGIS 3.0. I work as a consultant on a variety of projects.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glacier surface velocities from point clouds using an open-source toolchain
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2875@eclipsecon
+DESCRIPTION:An understanding of outlet glacier dynamics is crucial for understanding the mass-balance of the Greenland Ice Sheet and how changes to the Ice Sheet will affect sea level rise.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Working With the OSGeo Community
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2920@eclipsecon
+DESCRIPTION:Welcome to the Open Source Geospatial Foundation, this presentation is on how we actually get work done as volunteers.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of GeoWebCache
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2936@eclipsecon
+DESCRIPTION:GeoWebCache is a successful OSGeo community project used in GeoServer and GeoNode. Did you also know can be run on its own though?
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Manager&#039;s Guide to PostGIS
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2781@eclipsecon
+DESCRIPTION:Your staff keep talking about this “PostGIS” thing, but what is it? Does anyone (important) else use it? What for?
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSS4G at University of Colorado - Denver
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T152000
+UID:2740@eclipsecon
+DESCRIPTION:FOSS4G at University of Colorado - Denver
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Endangered Plant Site Probability Analysis for UAS Flight Planning
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2842@eclipsecon
+DESCRIPTION:Conservation organizations must locate populations of endangered species in order to monitor their welfare.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Denver Public Schools uses FOSS4G
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2701@eclipsecon
+DESCRIPTION:Denver Public Schools utilizes open source geospatial software to manage the spatial data that contributes to the planning and analysis of the District, as well as feeding to and from the student e
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Treasure
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2880@eclipsecon
+DESCRIPTION:OSGeo is made up of projects and chapters. The projects deliver great software and develop solutions to geospatial questions.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MapStory.org: Update on the State of the Platform
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2854@eclipsecon
+DESCRIPTION:This session will review the state of MapStory - the atlas of change that everyone can edit.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gerrymandering and Geospatial Analysis of Redistricting Plans
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2890@eclipsecon
+DESCRIPTION:Gerrymandering is a growing national concern.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QGIS 3.0: More Powerful in the Cloud (AWS).
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T153000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+UID:2919@eclipsecon
+DESCRIPTION:This talk/demo will focus on what you need to know to successfully use QGIS and other FOSS4G tools on AWS.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T160500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of GeoServer
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2934@eclipsecon
+DESCRIPTION:State of GeoServer provides an update on our community and reviews the new and noteworthy features for the Project. The community has a lot to cover in 2.12 and the recently released 2.13.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Importance of FOSS4G Conferences: the business and community imperatives
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2856@eclipsecon
+DESCRIPTION:FOSS4G Conferences, whether regional - like the North American event - or the Global event which took place in Boston in 2017 are important showcase events for the free and open source software for
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FireCARES - An open source GIS application for analyzing fire risk
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2822@eclipsecon
+DESCRIPTION:When fire department resources are deployed to match the risk levels inherent to hazards in the community, it has been scientifically demonstrated that the community will be far less vulnerable to 
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A GRASS GIS Study of Open Data 1-meter NED DEM Resampling:  Comparing recently published 1-meter NED to 3DEP LiDAR-derived original product resolution DEMs.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2826@eclipsecon
+DESCRIPTION:The US Geological Survey (USGS) publishes 3D Elevation Program (3DEP) LiDAR data products as a free and open data resource through the National Map (TNM).  Digital Elevation Models (DEM) from this 
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using OpenStreetMap data in QGIS
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2881@eclipsecon
+DESCRIPTION:Over the years, OpenStreetMap (OSM) has established itself as the most complete global dataset of road data, as well as a great source for other features like building outlines and points of intere
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continuously Delivered Scalable Geoservices on Kubernetes
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T170500
+UID:2901@eclipsecon
+DESCRIPTION:Learn how to build highly scalable services and iterate on them rapidly by leveraging all Kubernetes and Jenkins have to offer.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of JTS 2018
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2872@eclipsecon
+DESCRIPTION:The JTS Topology Suite and its ports have a long tradition of providing excellent implementations of basic geometry types and operations.  In 2017, JTS completed its migration and incubation to the
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ever try to Geocode a Craton? Building a geological feature geocoding engine.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2825@eclipsecon
+DESCRIPTION:Most geocoding services, such as Geonames or the Googel Maps API, are well optimized for resolving jurisdictions, business, addresses, and natural features like lakes and rivers However, geological
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building an OS business case for endusers.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2839@eclipsecon
+DESCRIPTION:Still many decision makers in both profit and non-profit organizations need to be convinced of the business value of open source. Building a comprehensive business case is the usual way to go.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Replace the Shapefile, an Introduction to the GeoPackage
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2937@eclipsecon
+DESCRIPTION:This talk will provide an introduction to the OGC GeoPackage file format.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketing open source products in commercial environments
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2874@eclipsecon
+DESCRIPTION:Sitting at the intersection of sales, product and marketing, product marketing is a critical aspect of commercially successful open source products.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moving your geoweb development to containers and Kubernetes (sponsored by Red Hat)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T171500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+UID:2703@eclipsecon
+DESCRIPTION:You are already familiar developing with Python and Leaflet for building your geoweb applications and you keep getting told you should use Docker.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Icebreaker
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T175000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+UID:2999@eclipsecon
+DESCRIPTION:Come to the Exhibit Area for drinks, snacks, and networking with attendees and sponsors.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BoF: Open Google Earth Enterprise Q&amp;A
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3082@eclipsecon
+DESCRIPTION:Synopsis: The State of Open GEE, Q&amp;A with developers and users, and how to get started
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BoF: OSGeo Members Meeting
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180514T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180514T193000
+UID:3047@eclipsecon
+DESCRIPTION:The Open Source Geospatial Foundation board would like to invite you to participate in one of the "Member Meetings" being scheduled 2018!
+About the idea of OSGeo Member Meetings
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map Like a Journalist (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+UID:2956@eclipsecon
+DESCRIPTION:You've cleaned a 20,000 row csv, merged it with the strange propriety data format, and miraculously rendered the result into an interactive map.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raster Vision: Deep Learning for Aerial and Satellite Imagery
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2829@eclipsecon
+DESCRIPTION:Increasingly, deep learning is being used to make sense of the vast quantity of satellite and aerial imagery being generated each day.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building an Image Processing Pipeline at Scale using Open Source (sponsored by Boundless)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2941@eclipsecon
+DESCRIPTION:Farmers Edge provides innovative agricultural practices that help growers boost crop production and improve sustainability.  After recently acquiring an exclusive industry wide redistribution agree
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PostGIS Query Festival
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2710@eclipsecon
+DESCRIPTION:You're part of the SELECT group of PostGIS users, but you want to UPDATE your skills, to INSERT some knowledge on performance and how to structure queries for common spatial analysis problems.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Green Was My Valley - Spatial Analytics with PostgreSQL, PostGIS, R, and PL/R
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2736@eclipsecon
+DESCRIPTION:Increasingly today, collected data includes a spatial component. PostgreSQL + PostGIS, combined with R via PL/R, provides an awesome tool-chain for advanced spatial analytics on such data!
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NASA DEVELOP - Free &amp; Open Source Tools for Earth Science
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2827@eclipsecon
+DESCRIPTION:The NASA DEVELOP Program conducts interdisciplinary feasibility projects that apply the lens of NASA Earth observations to community concerns around the globe.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Image  the Entire Earth Every Day
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T110500
+UID:2777@eclipsecon
+DESCRIPTION:Planet, a young San Francisco-based company, has put over 150 satellites into space with the goal of imaging the entirety of the earth's surface once a day.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best Practice for Serving COG Imagery using MapServer in the Cloud (sponsored by AWS)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2918@eclipsecon
+DESCRIPTION:Recently there has been quite a bit of interest in Cloud Optimized GeoTIFFs (COG) that can be built using GDAL's raster utility programs gdal_translate and gdaladdo.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2.5D !== 3D
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2795@eclipsecon
+DESCRIPTION:While 3D virtual globes and maps have been around for over 20 years, advances in JavaScript and WebGL have made them increasingly popular.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R Notebooks: A New Paradigm for Geospatial Data Science
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2884@eclipsecon
+DESCRIPTION:Imagine a world where a high quality report is a happy consequence of writing your everyday code.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Awareness GEOINT Environment (MAGE)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2731@eclipsecon
+DESCRIPTION:The Mobile Awareness GEOINT Environment, MAGE, provides dynamic capabilities for mobile situational awareness.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Not to Use osm2pgsql
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2816@eclipsecon
+DESCRIPTION:Osm2pgsql is a command line tool that converts OpenStreetMap data to a Post-GIS enabled PostgreSQL database, where it can be visualized using a wide variety of tools.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interacting with National Water Model (NWM) Predictions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T115000
+UID:2864@eclipsecon
+DESCRIPTION:The increasing availability of large-scale cloud computing resources has enabled large-scale environmental predictive models such as the National Water Model (NWM) to be run essentially continuousl
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breaking the 4th Dimension: temporal data in PostgreSQL and PostGIS
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+UID:2935@eclipsecon
+DESCRIPTION:It is “well known” that 80% of all data has a spatial component. What is less well known is that 100% of data contains a temporal component.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GeoServer &amp; PostGIS in Containers and on Kubernetes
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+UID:2704@eclipsecon
+DESCRIPTION:You have heard about Docker containers and Kubernetes and wonder how you can use them in your Geo work.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monitoring critical infrastructure: GeoMesa and NRT analytic development in notebooks
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+UID:2849@eclipsecon
+DESCRIPTION:2017 saw critical outages and interruptions that affected air- and maritime-traffic: hurricanes, computer outages, physical threats, and more.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Road to 200,000 Downloads: The Cesium Story
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+UID:2783@eclipsecon
+DESCRIPTION:Since its creation, the Cesium community has grown dramatically and now has nearly 150 community contributors and millions of users.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How NASA is Building a Petabyte Scale Geospatial Archive in the Cloud
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+UID:2886@eclipsecon
+DESCRIPTION:NASA's Earth Observing System Data and Information System (EOSDIS) is working towards a vision of a cloud-based, highly-flexible, ingest, archive, management, and distribution system for its ever-g
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A spatial operator walks into a bar and sees two GeoWave tables..
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2883@eclipsecon
+DESCRIPTION:It asks "Can I join you?"
+Yes, and efficiently!
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2961@eclipsecon
+DESCRIPTION:SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING
+L. V. Stanislawski, J. Wendel, E. Shavers
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make your own Satellite Imagery Machine Learning Data
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2873@eclipsecon
+DESCRIPTION:Label Maker is an open source python library to help in extracting insight from satellite imagery.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CityGML, 3D Tiles and Cesium - A Data Fusion Symphony
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2785@eclipsecon
+DESCRIPTION:As CityGML's popularity has grown, more cities, governments, and organizations are looking towards CityGML as their primary city data format.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Cesium and Open Source for Visualization of Atmospheric and Space Science Data
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2813@eclipsecon
+DESCRIPTION:At the Laboratory for Atmospheric and Space Physics (LASP), we create visualizations of science data from around Earth and Mars in order to provide insight that the raw data does not make readily a
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed Meets Scale: Analyzing &amp; Visualizing Geospatial Data with GPUs
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T143500
+UID:2824@eclipsecon
+DESCRIPTION:Thanks to the proliferation of geospatial data from sensors, smart phones, social media and transportation data, developers and users can explore and analyze that data to detect anomalies and disco
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Working with OpenStreetMap using Apache Spark and GeoTrellis
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2812@eclipsecon
+DESCRIPTION:OpenStreetMap (OSM) is a rich trove of geospatial data.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smart Citizens for Smart Cities - An open source and crowd sensing system for smart city air sensing
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2887@eclipsecon
+DESCRIPTION:What if you can see the air you breath? This talk presents an open-source and crowd-sourced air monitoring system across Canada.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taming Billions of LIDAR Points with GPU Database MapD
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2851@eclipsecon
+DESCRIPTION:LIDAR, or “Light Detection And Ranging” is a technology which generates 3D point clouds by bouncing signal off objects.  It can be deployed from satellite, airplane, drone or ground-mounted sensors
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leveraging open source technologies to produce insights from UAV-derived ortho mosaics at scale 
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2891@eclipsecon
+DESCRIPTION:The agricultural industry often uses aircraft to survey and collect information on fields and crops.  Data Scientists use imagery collected by these aircraft to gather several metrics that may incl
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Fusion With 3D Tiles
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2877@eclipsecon
+DESCRIPTION:There are many point cloud viewers, there are many photogrammetry viewers, there are many BIM and CAD viewers. 3D viewers tend to specialize in a single domain.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYOB: Plug and Play Backends with GeoWave
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+UID:2908@eclipsecon
+DESCRIPTION:As is the case with many modern technologies, there is not a single standard distributed computing framework that is used ubiquitously.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using GDAL to manage OpenStreetMap data in Oracle Spatial (sponsored by Oracle)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:2792@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birth of the 3D Elevation Program: How a Map Factory became a Big Data Producer
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:3067@eclipsecon
+DESCRIPTION:For over 130 years, the US Geological Survey (USGS) has been the nation’s premier governmental map making organization.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RasterFrames: Enabling Global-Scale Geospatial Machine Learning
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:2823@eclipsecon
+DESCRIPTION:RasterFrames™, a proposed LocationTech project, brings the power of Spark SQL and Spark ML to the analysis of global-scale geospatial-temporal raster data.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exposing your Endpoints: A Look into GeoWave&#039;s Web Services
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:2869@eclipsecon
+DESCRIPTION:Even though web services aren’t exactly a new technology, there have been advances in protocols and payloads such as HTTP/2 and protobuf that enable scalability.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monsanto’s GeoImagery Pipeline – A Holistic Approach to Automatically Ingest and Process Imagery From Multiple Sources
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:2857@eclipsecon
+DESCRIPTION:At Monsanto, we gather several types and formats of images from multiple platforms and sensors.  In the past, we developed individual processes and services for each imagery sources.  For example, 
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:mago3D. Let&#039;s integrate BIM/AEC with 3D GIS on your web browser.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T162000
+UID:2832@eclipsecon
+DESCRIPTION:Although there have been numerous attempts to integrate BIM and 3D GIS on a single web platform, the outcome of those attempts are not so satisfactory to date.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adding weather data to your geospatial applications using Open Source tools (sponsored by IBM)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:3062@eclipsecon
+DESCRIPTION:Weather is something that affects everybody's daily life and is closely tied to the geographic location.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leveraging open source geospatial technologies at scale in a commercial environment...and the keys to success  
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:2897@eclipsecon
+DESCRIPTION:Open source technologies are sometimes questioned because of how they may scale or may be easily adopted in an enterprise commercial environment.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enabling spatial analysis – point data to multi-polygon layer
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:2868@eclipsecon
+DESCRIPTION:Collected geospatial data may be in various formats – raster or vector (point, lines or polygons).
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Change Monitoring and OSM
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:2878@eclipsecon
+DESCRIPTION:Urban regions often change rapidly and unevenly - some areas develop and grow while others deteriorate. Public datasets like OpenStreetMap (OSM) can lag behind, often in these crucial areas.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Converging GeoData, Big Data, And Web Applications (sponsored by Red Hat)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:2702@eclipsecon
+DESCRIPTION:For most of my lifetime in the computing world, GIS, data crunching and web serving were three very separate worlds.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine learning, FOSS, and open data to map deforestation trends in the Brazilian Amazon.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+UID:2821@eclipsecon
+DESCRIPTION:Monitoring deforestation across the globe is important for understanding macro-scale impacts on carbon sequestration and climate change.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibitors Reception
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T170500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+UID:3000@eclipsecon
+DESCRIPTION:Join our sponsors in the Exhibit Area for appetizers and drinks.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3069@eclipsecon
+DESCRIPTION:Reserved for Birds of a Feather (BoF) Sessions
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BoF: UK Government&#039;s Digital Marketplace - How to tap into the £2.6Bn spent on cloud services by the UK Public Sector
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3070@eclipsecon
+DESCRIPTION:The UK Government launched the Digital Marketplace (https://www.digitalmarketplace.service.gov.uk/) several years ago, an
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BoF: SpaceNet and Geospatial Machine Learning
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3066@eclipsecon
+DESCRIPTION:Moderator: Todd Bacastow
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3052@eclipsecon
+DESCRIPTION:To organize a BoF, see the BoF Board by registration at the conference.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reserved for Birds of a Feather (BoF) Sessions
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180515T183000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180515T193000
+UID:3068@eclipsecon
+DESCRIPTION:Reserved for Birds of a Feather (BoF) Sessions
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-keynote Announcements (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T090000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+UID:2995@eclipsecon
+DESCRIPTION:Announcements and keynote introduction.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards a Queryable Earth (Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T091500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+UID:3025@eclipsecon
+DESCRIPTION:Despite the incredible power of geospatial information, only a small group of people historically have been able to leverage it for informed decision-making.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-keynote Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+UID:3023@eclipsecon
+DESCRIPTION:
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boundless Web SDK, Powering OpenLayers with React and Redux (sponsored by Boundless)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:2943@eclipsecon
+DESCRIPTION:React and Redux provide an awesome front-end development framework!
+But what about making maps? OpenLayers provides an excellent map
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New maps in the new medium: Teaching web cartography for a distributed workforce
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:3043@eclipsecon
+DESCRIPTION:Discussions of online education often center on pervasive media, which allow for immersive and distributed education.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uncovering patterns in high dimensional spatial data
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:2922@eclipsecon
+DESCRIPTION:One of the best things about spatial data is that it allows us to join a universe of data through a common index of space and time.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VTS: Getting Started with 3D Map Application Development
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:2805@eclipsecon
+DESCRIPTION:VTS is an alternative, cross-platform approach to 3D mapping and virtual landscape streaming, relying heavily on backend capabilities and tight client-server integration.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science Mapping in Jupyter Notebooks with Pixiedust: the sequel (sponsored by IBM)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:3060@eclipsecon
+DESCRIPTION:The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regional carbon budgets for high value forest landscapes using FOSS Geospatial tools
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T103000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T110500
+UID:2905@eclipsecon
+DESCRIPTION:For 27 years the Institute for Sustainable Forestry has worked to promote the long term economic, ecological and social well being of forest based communities through sustainable forest management.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDAL/OGR support for new Pitney Bowes (MapInfo) vector and raster file formats
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2808@eclipsecon
+DESCRIPTION:Pitney Bowes has recently introduced new raster and vector file formats.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAPPING INTERACTIVE GEOSPATIAL LINKED DATA
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2957@eclipsecon
+DESCRIPTION:Linked Data (LD) for geospatial data systems benefit from map interfaces for visualization.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offline Maps for Mobile — Making Maps That Are Mobile First
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2763@eclipsecon
+DESCRIPTION:ePi Maps are designed with mobile in mind from the beginning. "Mobile First" means that all map data is embedded in the app and the customer's experience is great once they download the app.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beyond Pretty Pictures: Topographic Labels in 3D Maps of High Terrain
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2796@eclipsecon
+DESCRIPTION:Three-dimensional maps of high terrain often lack in ability to represent a visual hierarchy of features, thus failing one of the basic tests of good cartography.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drag and Drop: Open Source GeoTools ETL with Apache NiFi
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2906@eclipsecon
+DESCRIPTION:Loading your GeoTools SimpleFeatures into your cloud or database never seems as easy as it should be.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contributing Every Day: How I Made a Career working with OSM
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T111500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T115000
+UID:2895@eclipsecon
+DESCRIPTION:OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Optimized GeoTiffs: enabling efficient cloud workflows
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:2847@eclipsecon
+DESCRIPTION:The Cloud Optimized GeoTIFF (COG) is a key component to enabling cloud-native geospatial workflows.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GeoPackage to go: offline maps from web to mobile
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:2775@eclipsecon
+DESCRIPTION:OGC's GeoPackage is a great geospatial data format for taking maps offline on your mobile device.  In this talk we will take a look at several open source GeoPackage libraries and examples.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migrating a manual FOSS4G-based data workflow to the AWS Cloud as a SaaS-based ETL solution to feed your favorite front-end apps
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:2843@eclipsecon
+DESCRIPTION:Data teams spend too much time wrangling information manually.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOWARDS THE DEVELOPMENT OF CROWDSOURCE BATHYMETRIC MAPPING PLATFORM 
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:3024@eclipsecon
+DESCRIPTION:S. Dibadina, M. A. Jadidia, C. Armenakisa
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings, Earthlings:  an exploration of scalable image processing architectures and alternative user interfaces through the lens of a chat bot that processes satellite data
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:2814@eclipsecon
+DESCRIPTION:For the past couple of years, Earthling Interactive has developed systems for processing Landsat and other satellite data into vegetation indices for precision agriculture in the cloud, at scale, u
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why is that Map so Easy to use?
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+UID:2942@eclipsecon
+DESCRIPTION:Map tools, layer lists, adding features... you name it. Maps can get complicated.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch (Archview Ballroom)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T123500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+UID:2996@eclipsecon
+DESCRIPTION:Lunch will be served in the Archview Ballroom.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenLayers Feature Frenzy
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2865@eclipsecon
+DESCRIPTION:Come learn about the latest in OpenLayers developments.  The 5.0 release represents a major overhaul of the library, with the goal of improving application developer experience.  We'll show you wha
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your bundle is bad and you should feel bad
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2794@eclipsecon
+DESCRIPTION:Webpack is a popular and very powerful module bundler. This talk will briefly introduce Webpack (what can it do and why should you use it?) and then go over lessons learned from a Webpack n00b.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Go Cross Platform with Kotlin!
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2734@eclipsecon
+DESCRIPTION:Are you tired of writing the same code over and over again just in a different language?
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Deep Learning to Derive 3D Cities from Satellite Imagery 
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2848@eclipsecon
+DESCRIPTION:Detection and reconstruction of 3D buildings in urban areas has been a hot topic of research due to its many applications, including 3D population density studies, emergency planning, and building 
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leveraging Vector Tiles to Query Statewide Habitat Data in a Browser
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2896@eclipsecon
+DESCRIPTION:Into using FOSS4G for environmental projects? This is the talk for you!
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Have your Pi(e) and Map with it too.
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T143500
+UID:2798@eclipsecon
+DESCRIPTION:Every once in while a project comes along that's both useful and at the same time fun to put together.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Managing an autonomous bus transit network with FOSS
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2819@eclipsecon
+DESCRIPTION:Early this year IBM showed a vision of the future of autonomous bus transit networks at the Consumer Electronics Show.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDAL Algorithm Development Deep Dive
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2899@eclipsecon
+DESCRIPTION:In this talk, we will outline the steps to develop a point cloud filtering algorithm using PDAL's Python extension.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automated Map Stacks with DevOps &amp; Infrastructure as Code
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2894@eclipsecon
+DESCRIPTION:Maybe you've gotten a sweet Leaflet map or PostGIS database working on your laptop.  You're feeling ready to share your web map or mapping service with others.  Now how do you get that local sweetn
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript all the things! Geoblaze - raster processing in js
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2903@eclipsecon
+DESCRIPTION:JavaScript has become ubiquitous across many platforms. However, raster processing is still predominantly done in either desktop software or cloud platforms.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The emerging STAC spec and sat-utils
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2882@eclipsecon
+DESCRIPTION:On the tail of State of the Map US 2017 in Boulder, a working group of geospatial imagery data providers and developers met to discuss a common metadata and API specification to support the reuse o
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Applications of FOSS4G at the U.S. Census Bureau
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T144500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+UID:2789@eclipsecon
+DESCRIPTION:The U.S. Census Bureau has worked internationally for many decades.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Break
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T152000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+UID:2998@eclipsecon
+DESCRIPTION:Beverages and dessert will be served in the Exhibit Area.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-dimensional Choropleth Maps using PostGIS, GeoServer, and Google Earth
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2735@eclipsecon
+DESCRIPTION:"I don't always want a graphical way to convey spatial data in which regions are shaded or patterned in proportion to the measurement of the statistical variable being displayed, but when I do I us
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building Enterprise PostGIS Solutions for Public Policy Research
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2870@eclipsecon
+DESCRIPTION:PostGIS is a valuable tool for practitioners of data-driven public policy research because it supports the development of powerful, low-cost, centralized, and secure GIS environments that can integ
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Blockchain in Geospatial Applications
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2779@eclipsecon
+DESCRIPTION:Blockchain is a digital decentralized registry of electronic transactions that are secure and verifiable. The technology is used to record cryptocurrency transactions (e.g.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delivering Solutions Using Open Source Software - A Practical Guide 
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2811@eclipsecon
+DESCRIPTION:The advantages of open source software are well-known to the FOSS4G community. Not as well documented are how these advantages have translated into creating and running a successful project.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spatial indexing, organization, and exploitation of massive point clouds via web services
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2809@eclipsecon
+DESCRIPTION:Point cloud data's defining characteristic is volume, and successful tools must reach for any graspable lifelines to survive the challenge.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A STUDY ON NON-MERCATOR VECTOR TILING FOR AN EFFICIENT WEB MAPPING SOLUTION
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T154500
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T162000
+UID:2960@eclipsecon
+DESCRIPTION:A STUDY ON NON-MERCATOR VECTOR TILING FOR AN EFFICIENT WEB MAPPING SOLUTION
+James Badger, Sara Saeedi, Steve Liang
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geospatial Innovation and the Rules of Engagement  (Closing Session - Salon C &amp; D)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T163000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T171500
+UID:3035@eclipsecon
+DESCRIPTION:This year’s keynotes carry notions of impending change for our industry:  from "reaching a wide audience"(Julia Wolfe) and a need for "alliances between different open source communities" (Mark Mun
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Gateway II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Gateway III
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Gateway IV &amp; V
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Salon A &amp; B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Gateway I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Reception (off site - tickets required)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180516T180000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180516T210000
+UID:3001@eclipsecon
+DESCRIPTION:Attendees who purchased tickets are invited to the Budweiser Brew House at Ballpark Village, across the street from the Hilton.
+LOCATION:Salon E &amp; F &amp; G
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:7th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:8th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:Missouri S&amp;T Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:Holekamp Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:Purina Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Coffee
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T093000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+UID:3039@eclipsecon
+DESCRIPTION:The doors open at 9:30am for Community & Workshop Day.
+LOCATION:Morgan Stanley Large Event Space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Visualization &amp; Cartography in QGIS
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:2699@eclipsecon
+DESCRIPTION:This workshop will be a tour of the wide range of data visualization/styling and cartographic techniques now available in QGIS 3. QGIS has seen remarkable growth in these areas in recent years.
+LOCATION:Purina Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web 3D Geospatial Made Easy: An Introduction to Cesium
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:2726@eclipsecon
+DESCRIPTION:Why settle for 2D maps? 3D geospatial unlocks a world of new features, such as analytical visualizations, dynamic shadows, accurate terrain, 3D models, and more.
+LOCATION:8th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R Studio as a Traditional Desktop GIS Replacement
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:2909@eclipsecon
+DESCRIPTION:R is a deeply open source language with a welcoming community of contributors and powerful tools for data analysis. R Studio makes doing day to day geospatial analysis a joy.
+LOCATION:Missouri S&amp;T Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapping with Flying Robots: 3D reconstruction through photogrammetric alchemy
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:2790@eclipsecon
+DESCRIPTION:OpenDroneMap is free and open source photogrammetry toolkit targeted at low flying aircraft imagery processing.
+LOCATION:7th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Code Sprint
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3040@eclipsecon
+DESCRIPTION:
+LOCATION:Morgan Stanley Large Event Space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Query the Planet: Geospatial Big Data Analytics Using Open Source Tools from Large Technology Companies
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T100000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:2893@eclipsecon
+DESCRIPTION:Both Facebook's Presto and ESRI's Geometry API for Java were made open in 2013.
+LOCATION:Holekamp Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:Missouri S&amp;T Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:Purina Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:8th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:7th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:Holekamp Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - first shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T120000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+UID:3037@eclipsecon
+DESCRIPTION:For attendees who are *not* in a morning workshop, lunch will start at 12:00pm.
+LOCATION:Morgan Stanley Large Event Space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:7th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:Missouri S&amp;T Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:Morgan Stanley Large Event Space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:Purina Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:Holekamp Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch - second shift
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T130000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+UID:3038@eclipsecon
+DESCRIPTION:For attendees in morning workshops, lunch will begin at 1pm.
+LOCATION:8th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MapD for Analysts: Visualizing Your Geospatial Data on GPUs
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:2912@eclipsecon
+DESCRIPTION:There has been an explosion of geospatial data soures and collection in recent years, and with it the need for technologies that data analysts can use to query and visualize those very large data s
+LOCATION:Missouri S&amp;T Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internet of Things Made Easy with OGC SensorThings API - From Sensors to Dashboards in 15 minutes
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:2889@eclipsecon
+DESCRIPTION:This workshop will give a hands-on tutorial of the OGC® SensorThings API, an OGC standard API that simplifies and accelerates the development of Internet of Things (IoT) applications.
+LOCATION:7th Floor Boardroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Running your own Vector Tiles Stack
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:2844@eclipsecon
+DESCRIPTION:As the use of Vector Tiles has exploded in the past few years, more and more use cases have emerged that require setting up an ‘end to end’ stack for preparing, serving and consuming vector tiles i
+LOCATION:Purina Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Code Sprint
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:3040@eclipsecon
+DESCRIPTION:
+LOCATION:Morgan Stanley Large Event Space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Cloud Processing and Analysis with PDAL
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:2707@eclipsecon
+DESCRIPTION:PDAL is the Point Data Abstraction Library, and it is used to provide data access and processing tools for geospatial point cloud data such as those that come from LiDAR or 3D imaging.
+LOCATION:Holekamp Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to running Auto Scaling Geoserver and PostgreSQL/PostGIS in the Cloud (AWS)
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20180517T140000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20180517T170000
+UID:2910@eclipsecon
+DESCRIPTION:This lab will provide an introduction to running GeoServer on AWS infrastructure.
+LOCATION:8th Floor Boardroom
+END:VEVENT
+END:VCALENDAR

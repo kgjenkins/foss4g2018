@@ -1,0 +1,458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<!-- Mirrored from 2018.foss4g-na.org/node/2961 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Oct 2018 15:17:45 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300,600,100" rel="stylesheet" type="text/css">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING L. V. Stanislawski, J. Wendel, E. Shavers U.S. Geological Survey, Center of Excellence for Geospatial Information Science, 1400 Independence Road, Rolla Missouri, 65401, United States (lstan, jwendel, eshavers)@usgs.gov T. Li" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../session/similarity-assessment-linear-hydrographic-features-using-high-performance-computing.html" />
+<link rel="shortlink" href="2961.html" />
+<meta property="og:site_name" content="FOSS4G NA 2018" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="../session/similarity-assessment-linear-hydrographic-features-using-high-performance-computing.html" />
+<meta property="og:title" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING" />
+<meta property="og:description" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING L. V. Stanislawski, J. Wendel, E. Shavers U.S. Geological Survey, Center of Excellence for Geospatial Information Science, 1400 Independence Road, Rolla Missouri, 65401, United States (lstan, jwendel, eshavers)@usgs.gov T. Li" />
+<meta property="og:updated_time" content="2018-03-13T14:58:51-04:00" />
+<meta property="og:image" content="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/foss4g2018-twittercard.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="../session/similarity-assessment-linear-hydrographic-features-using-high-performance-computing.html" />
+<meta name="twitter:title" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING" />
+<meta name="twitter:description" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING L. V. Stanislawski, J. Wendel, E. Shavers U.S. Geological Survey, Center of Excellence for Geospatial Information Science, 1400 Independence Road, Rolla Missouri, 65401, United States (lstan, jwendel, eshavers)@usgs.gov T. Li" />
+<meta name="twitter:image" content="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/foss4g2018-twittercard.jpg" />
+<meta property="article:published_time" content="2018-03-02T17:37:47-05:00" />
+<meta property="article:modified_time" content="2018-03-13T14:58:51-04:00" />
+  <title>SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING | FOSS4G NA 2018</title>
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_6zemUaNACzZ5sPLowbJJP0jVAcgeofg1dmXJdb1dfGY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_0rU4WF0Qi-F6kg-fo1TCNC_P794ZzUTt54CPLcmOZoY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AL6jcaF9TDNIXjNQB9jGsgL_e06Vn3uDp--G95BKHfA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_x3lXrsT321r-f3qrP9KGWAl7r1U1l3hqrAgHfBuQ4rI.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="../sites/default/files/js/js_bu9AdsQjsz_6Nfl6xjluK8orG6hwD03RvL6J-M-3f00.js"></script>
+<script src="../sites/all/libraries/modernizr/modernizr.minda33.js?pfz7wl"></script>
+<script src="../sites/default/files/js/js_e1VOoITSzyq9WRfCqumKUeuj8lPap0O7_buHrX9Joxk.js"></script>
+<script src="../sites/default/files/js/js_Oq987EJUa2pHuqxKT9CMx86MuTeUig_ee_a4gS2or1M.js"></script>
+<script src="../sites/default/files/js/js_mdVUAFTjcyVkAEGJ23YA4EYL97yio0w5hhF-lWZxCuM.js"></script>
+<script src="http://www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js"></script>
+<script src="../sites/default/files/js/js_jQrNeGiMsOqmScXfh34k_acKj3h-HRzl8Tyzjdmh4Ko.js"></script>
+<script src="../sites/default/files/js/js_GP6vKeTRssTgse-Gvof3keIRg8XcDdj01djsrgljb8I.js"></script>
+<script src="../sites/default/files/js/js_MuDTaH6IDLuXnj65DuAM-pPAeyOB38kENmDhj9BCmeM.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"solstice_eclipsecon_foss4g2018","theme_token":"DyeL2XQZ6xkzLQ3UC5WvwOsloh952L-JTHucZeW2QsA","jquery_version":"1.9","js":{"sites\/all\/themes\/solstice\/public\/javascript\/solstice_twitterwidget.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/contrib\/community_tags\/community_tags.js":1,"\/\/www.eclipse.org\/eclipse.org-common\/themes\/solstice\/public\/javascript\/vendor\/cookieconsent\/default.min.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_collapse.js":1,"sites\/all\/themes\/solstice\/public\/javascript\/main.min.js":1,"sites\/all\/themes\/solstice\/_themes\/solstice_eclipsecon\/public\/javascript\/eclipsecon.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/ctools\/js\/modal.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/community_tags\/community_tags.css":1,"\/\/www.eclipse.org\/eclipse.org-common\/themes\/solstice\/public\/stylesheets\/vendor\/cookieconsent\/cookieconsent.min.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/solstice\/_themes\/solstice_eclipsecon_foss4g2018\/public\/stylesheets\/styles.min.css":1}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/2018.foss4g-na.org\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/2018.foss4g-na.org\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"scale","width":0.99,"height":0.99},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/2018.foss4g-na.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"scale","width":0.9,"height":0.99},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/2018.foss4g-na.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.9,"height":0.99},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/2018.foss4g-na.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"communityTags":{"n_2961":{"v_6":{"tags":[],"url":"\/community-tags\/js\/2961\/6","add":"Add","token":"KN_EMbJ6EzgqP0iIrsm7CHVmxhLp_pJbH9EarNfGqqU"}}},"urlIsAjaxTrusted":{"\/node\/2961":true},"better_exposed_filters":{"views":{"eclipsecon_sponsors":{"displays":{"block":{"filters":[]}}}}},"eclipseApiUrl":"https:\/\/api.eclipse.org","marketplaceUrl":"https:\/\/marketplace.eclipse.org","eclipseAccountsUrl":"https:\/\/accounts.eclipse.org","field_group":{"fieldset":"full"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2961 node-type-session" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top solstice-region-element-count-1 row">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager">Google Tag Manager</iframe></noscript>  </div>
+  <a class="sr-only" href="#content">Skip to main content</a>
+  <div class="clearfix toolbar-container-wrapper toolbar-contrast">
+    <div class="container">
+      <div class="text-right toolbar-row row hidden-print">
+        <div class="col-md-24 row-toolbar-col">
+          <div id="row-toolbar" class="region region-toolbar text-right hidden-print solstice-region-element-count-1 row">
+  <div id="row-toolbar-col" class="col-md-24">
+     <!-- /.block -->
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+<header id="header-wrapper" class="" role="banner">
+  <div class="container">
+    <div id="header-row" class="row" style="padding:20px 0 10px;">
+      <div id="header-left" class="hidden-xs col-sm-8">
+                <a href="../index.html" title="Home"><img class="logo-eclipse-default img-responsive" src="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/logo.png" alt="Home" /></a>                        <a class="name navbar-brand element-invisible" href="../index.html" title="Home">
+        FOSS4G NA 2018        </a>
+              </div>
+              <div id="header-right" class="col-sm-16 pull-right">
+                    <div class="row">
+            <div class="col-sm-24">
+              
+            </div>
+          </div>
+                              <div id="header-custom-content" class="text-center" style="margin-top: 21px;">
+              <div class="region region-header-right solstice-region-element-count-1">
+    <section id="block-eclipsecon-support-event-info-eclipsecon-support-event-info" class="block block-eclipsecon-support-event-info block-region-header-right block-eclipsecon-support-event-info clearfix">
+
+        <h2 class="block-title">Eclipse Support Event Info</h2>
+    
+  <div class="block-content">
+    <div class="event_info"><span class="event_location">St. Louis, Missouri &middot; </span><span class="event_date">May 14 - 16, 2018</span></div>  </div>
+
+</section> <!-- /.block -->
+  </div>
+          </div>
+                            </div>
+                    <div id="main-menu-wrapper" class="col-md-16">
+          <div class="navbar yamm" id="main-menu">
+            <div id="navbar-collapse-1" class="navbar-collapse collapse">
+                                <div class="region region-navigation solstice-region-element-count-1">
+    <section id="block-system-main-menu" class="block block-system block-menu block-region-navigation block-main-menu clearfix">
+
+      
+  <div class="block-content">
+    <ul class="menu nav navbar-nav navbar-right"><li class="first expanded dropdown"><a href="/foss4g2018/news.html" title="Conference News" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Conference <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/foss4g2018/conference/schedule/session/2018-05-14.html" title="Program Schedule">Program Schedule</a></li>
+<li class="leaf"><a href="/foss4g2018/program/sessions/accepted.html" title="Accepted Sessions">Program List</a></li>
+<li class="leaf"><a href="/foss4g2018/news.html" title="News">News</a></li>
+<li class="leaf"><a href="/foss4g2018/community.html">Community &amp; Workshop Day</a></li>
+<li class="leaf"><a href="/foss4g2018/foss4ag.html">FOSS4AG Day</a></li>
+<li class="leaf"><a href="/foss4g2018/keynotes.html">Keynotes</a></li>
+<li class="leaf"><a href="/foss4g2018/bofs.html" title="Request a pre-scheduled Birds of a Feather session">Organize a BoF</a></li>
+
+</ul></li>
+<li class="expanded dropdown"><a href="/foss4g2018/community.html" title="Attendees" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Community <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/foss4g2018/friends.html">Be a Friend</a></li>
+<li class="leaf"><a href="/foss4g2018/code-conduct.html">Code of Conduct</a></li>
+<li class="leaf"><a href="/foss4g2018/community/speakers.html" title="Speakers">Speakers</a></li>
+<li class="leaf"><a href="/foss4g2018/community.html" title="Attendees">Attendees</a></li>
+<li class="last leaf"><a href="/foss4g2018/community/past-eclipsecon.html" title="Past EclipseCon conference">Past Conferences</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/foss4g2018/sponsors.html" title="Sponsors" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Sponsors <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/foss4g2018/sponsors.html" title="Sponsors">Our Sponsors</a></li>
+<li class="last leaf"><a href="/foss4g2018/prospectus.html">Be a Sponsor</a></li>
+</ul></li>
+<li class="expanded active dropdown"><a href="/foss4g2018/index.html" title="Venues, hotels, area" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Venue <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf"><a href="/foss4g2018/hotels.html">Conference Hotel &amp; Venue</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/foss4g2018/about-eclipse-foundation.html" title="About the Eclipse Foundation" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/foss4g2018/about-foss4gna.html">FOSS4G NA 2018</a></li>
+<li class="last leaf"><a href="/foss4g2018/about-pc.html">Conference Committee</a></li>
+</ul></li>
+</ul>  </div>
+
+</section> <!-- /.block -->
+  </div>
+                          </div>
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              </button>
+              <a href="../index.html" class="navbar-brand visible-xs"><img class="logo-eclipse-default-mobile" width="161" alt="Eclipse.org logo" src="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/logo.png"/></a>            </div>
+          </div>
+        </div>
+          </div>
+  </div>
+</header>
+
+<section id="breadcrumb" class="default-breadcrumbs hidden-print">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-24 padding-left-30">
+        <ol class="breadcrumb"><li><a href="http://www.eclipse.org/">Home</a></li>
+<li><a href="../index.html">FOSS4G NA 2018</a></li>
+<li><a href="../program/sessions/proposed.html">Proposed Sessions</a></li>
+<li class="active">SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING</li>
+</ol>      </div>
+    </div>
+  </div>
+</section>
+
+
+<main role="main" class="no-promo">
+    <div class="container" id="novaContent">
+  <header role="banner" id="page-header">
+          </header>
+  <!-- /#page-header -->
+  <div class="row" id="main-content-row">
+        <section  class="col-xs-24" id="main-content">
+                  
+        
+        
+                  <a id="main-content"></a>
+          <div id="maint-content-area">
+            
+                          <h1  class="page-header">SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING</h1>
+                                
+                                
+          
+          
+            <div class="region region-content solstice-region-element-count-1">
+    <section id="block-system-main" class="block block-system block-region-content block-main clearfix">
+
+      
+  <div class="block-content">
+    <article id="node-2961" class="node node-session clearfix" about="/session/similarity-assessment-linear-hydrographic-features-using-high-performance-computing" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+      <div class="row">
+    <div class="col-sm-8">
+      <fieldset  class="collapsible  group-session-details field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel">
+          <legend class="panel-heading">
+      <a href="#" class="panel-title fieldset-legend" data-toggle="collapse" data-target="#bootstrap-panel > .collapse">Session details</a>
+    </legend>
+          <div class="panel-collapse collapse fade in">
+    <div class="panel-body">
+        <div class="field field-name-field-accepted.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Academic</a></div></div></div>  </div>
+    </div>
+  </fieldset>
+          </div>
+    <div class="col-sm-16">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>SIMILARITY ASSESSMENT OF LINEAR HYDROGRAPHIC FEATURES USING HIGH PERFORMANCE COMPUTING</strong></p>
+<p class="rtecenter">L. V. Stanislawski, J. Wendel, E. Shavers</p>
+<p class="rtecenter">U.S. Geological Survey, Center of Excellence for Geospatial Information Science, 1400 Independence Road, Rolla Missouri, 65401, United States <strong>(lstan, jwendel, eshavers)@usgs.gov</strong></p>
+<p class="rtecenter">T. Li</p>
+<p class="rtecenter">University of Illinois at Urbana-Champaign, CyberGIS Center, 2046 Natural History Building M-C 150, 1301 W. Green Street,  Urbana, Illinois 61801, United States <a href="mailto:tingli3@illinois.edu" rel="nofollow">tingli3@illinois.edu</a></p>
+<p> </p>
+<p><strong>KEY WORDS:</strong> line similarity assessment, hydrography, coefficient of line correspondence, National Hydrography Dataset, NHD</p>
+<p><strong>ABSTRACT:</strong> </p>
+<p>This work discusses a current open source implementation of a line similarity assessment workflow to compare elevation-derived drainage lines with the high-resolution National Hydrography Dataset (NHD) surface-water flow network. The process identifies matching and mismatching lines in each dataset to help focus subsequent validation procedures to areas of the NHD that more critically need updates.</p>
+<p><strong>1.  INTRODUCTION</strong></p>
+<p>The National Hydrography Dataset (NHD) is a comprehensive vector dataset of surface-water features within the United States (U.S. Geological Survey 2000) that is often used to support hydrologic and watershed research (Liu et al., 2016, Maceyka and Hansen 2016, Schneider et al. 2017, Sheng et al. 2007, Vanderhoof et al. 2017, Wu and Lane 2017). Two NHD datasets are available. The medium-resolution NHD, compiled from 1:100,000-scale source data, is a legacy dataset that is no longer maintained by the U.S. Geological Survey. The high-resolution NHD (NHD HR) is compiled from 1:24,000-scale or larger source data, and is the most up-to-date and detailed hydrography dataset for the nation (U.S. Geological Survey, 2018). To update and enhance the usability of the NHD, multiple efforts are in progress to improve the accuracy of the NHD HR. For instance, drainage lines or other hydrographic features may be derived from a recent digital elevation model (DEM), lidar, or other data (Stanislawski et al. 2016, Vanderhoof et al. 2017, Poppenga et al. 2013) to update the content of NHD HR.</p>
+<p>Newly derived hydrographic feature content must be validated through comparisons with existing data or other independent data sources, such as high resolution photography, images, or field data. This paper describes an automated process for identifying matching and mismatching lines between two sets of lines representing similar features. In this case, elevation-derived drainage lines are compared with linear features in the surface-water flow network of NHD HR. The process identifies the matching and mismatching lines in each dataset, thereby furnishing locations where subsequent verification efforts may be focused and NHD content may be improved.</p>
+<p>The process, first employed by Stanislawski and others (2016), furnishes the Coefficient of Line Correspondence (CLC) similarity metric for each set of tested lines. It is typically employed on HUC8 subbasin datasets, which include roughly 10,000 to 100,000 linear features. Early versions of the process were implemented through ArcGIS® tools with Python, which required between 10 minutes to an hour per subbasin, depending on the subbasin size and machine capacity. Given more than 2000 subbasins in the United States, this is a rather cumbersome task. This paper describes a new implementation of this workflow using Python, C, and open source tools with parallel processing within a Linux high-performance computing environment.</p>
+<p><strong>2. METHODS</strong></p>
+<p>In brief, the CLC computation process involves the following steps: 1) computation of a line-density raster dataset for each of the two sets of lines being compared, 2) differencing the two line-density raster datasets and computing a confidence interval for cells not significantly different than zero (i.e. matching cells), 3) including matching cells within polygonal water features having more than a threshold of lines from both datasets, and 4) identifying the parts of the features that are within the matching or mismatching cells. Cell size depends on the accuracy of the input lines, and is calculated as twice the positional accuracy of the lines. The CLC is computed as the sum of the length of all matching lines from both datasets, divided by the sum of the length of all lines in both datasets.</p>
+<p>The line-density rasterization process is completed with a custom C program that also uses input, output, and projection operations from the Open Source Geospatial Foundation (OSGeo) Geospatial Data Abstraction Library (GDAL, <a href="http://gdal.org/" rel="nofollow">http://gdal.org</a>) through the C application programming interface. Input vector data is stored in shapefiles. The program uses a circle, centered on each cell, to compute the density of lines for each associated cell.  The radius of the circle is specified by the user to control the degree of smoothness in the resulting raster. The remainder of computations are completed through custom Python procedures assisted by GDAL and other open source utilities (Shapely, Numpy, Skimage) accessed through Python bindings. Links to C/C++/Python programming libraries are set through a virtual environment. A line tracking algorithm, designed to identify segments of lines that intersect raster cells, determines the parts of linear features passing through matching and mismatching cells.</p>
+<p>Software is deployed on a 12-node Linux cluster, with each node having 20 processing cores and 128 gigabytes of RAM. Rapid access to file storage is furnished through a parallel shared Lustre file system on a high-speed Infiniband network. On this system, the open source version of the CLC program has completed individual subbasin processing in less than two minutes using a single processing core. Simultaneous processing of up to 240 subbasin datasets, each on a single core, is being tested. Computational resources (nodes, processors, memory, processing time, etc.) and job execution are managed through the Slurm Workload Manager.</p>
+<p><strong>REFERENCES</strong></p>
+<p>Liu, Y.Y., D.R. Maidment, D. G. Tarboton, X. Zheng, A. Yildirim, N.S. Sazib, and S. Wang., 2016. A CyberGIS approach to generating high-resolution height above nearest drainage (HAND) raster for national flood mapping. <em>The Third International Conference on CyberGIS and Geospatial Data Science.</em> July 26–28, 2016, Urbana, Illinois. <a href="http://dx.doi.org/10.13140/RG.2.2.24234.41925/1" rel="nofollow">http://dx.doi.org/10.13140/RG.2.2.24234.41925/1</a></p>
+<p>Maceyka, A., W.F. Hansen., 2016. Enhancing hydrologic mapping using lidar and high resolution aerial photos on the Francis Marion National Forest in coastal South Carolina. In: Stringer, Christina E.; Krauss, Ken W.; Latimer, James S., eds. 2016. <em>Headwaters to estuaries: advances in watershed science and management—Proceedings of the Fifth Interagency Conference on Research in the Watersheds. </em>March 2-5, 2015, North Charleston, South Carolina. e-Gen. Tech. Rep. SRS-211. Asheville, NC: U.S. Department of Agriculture Forest Service, Southern Research Station. 302 p.</p>
+<p>Poppenga, S.K., D.B. Gesch, and B.B. Worstell., 2013. Hydrography change detection: The usefulness of surface channels derived from LiDAR DEMS for updating mapped hydrography. <em>Journal of the American Water Resources Association </em>49(2): 371–389. doi:10.1111/jawr.12027.</p>
+<p>Schneider, A., A. Jost, C. Coulon, M. Silvestre, S. Théry, and A. Ducharne., 2017. Global-scale river network extraction based on high-resolution topography and constrained by lithology, climate, slope, and observed drainage density,<em> Geophys. Res. Lett.</em>, 44: 2773–2781, doi:10.1002/2016GL071844.</p>
+<p>Sheng, J., J. P. Wilson, N. Chen, J. S. Devinny, and J. M. Sayre., 2007. Evaluating the quality of the National Hydrography Dataset for watershed assessments in metropolitan regions. <em>GIScience &amp; Remote Sensing </em>44 (3): 283–304. doi:10.2747/1548-1603.44.3.283.</p>
+<p>Stanislawski, L.V., B.P. Buttenfield, and A. Doumbouya., 2015. A rapid approach for automated comparison of independently derived stream networks. <em>Cartography and Geographic Information Science</em> 42(5): 435-448, doi:10.1080/15230406.2015.1060869.</p>
+<p>U.S. Geological Survey, 2000. <em>The National Hydrography Dataset: Concepts and Contents</em> (February 2000). United States Geological Survey. <a href="https://nhd.usgs.gov/chapter1/chp1_data_users_guide.pdf" rel="nofollow">https://nhd.usgs.gov/chapter1/chp1_data_users_guide.pdf</a>, last accessed March 1, 2018.</p>
+<p>U.S. Geological Survey, 2018. Hydrography: NHDPlus High Resolution, National Hydrography Dataset, Watershed Boundary Dataset. United States Geological Survey. <a href="https://nhd.usgs.gov/index.html" rel="nofollow">https://nhd.usgs.gov/index.html</a>, last accessed March 1, 2018.</p>
+<p>Vanderhoof, M.K., H.E. Distler, D.T.G. Mendiola, and M. Lang., 2017. Integrating Radarsat-2, Lidar, and Worldview-3 imagery to maximize detection of forested inundation extent in Delmarva Peninsula, USA. <em>Remote Sensing</em> 2017, 9, 105; doi:10.3390/rs9020105.</p>
+<p>Wu, Q, and C.R. Lane., 2017. Delineating wetland catchments and modelling hydrologic connectivity using lidar and aerial imagery. <em>Hydrology and Earth System Sciences</em>, 21, 3579–3595, 2017, <a href="https://doi.org/10.5194/hess-21-3579-2017" rel="nofollow">https://doi.org/10.5194/hess-21-3579-2017</a>.</p></div></div></div>    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-24">
+      <fieldset  class="collapsible  group-schedule-info field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--2">
+          <legend class="panel-heading">
+      <a href="#" class="panel-title fieldset-legend" data-toggle="collapse" data-target="#bootstrap-panel--2 > .collapse">Schedule info</a>
+    </legend>
+          <div class="panel-collapse collapse fade in">
+    <div class="panel-body">
+        <div class="field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix"><div class="field-label">Session Time Slot(s):&nbsp;</div><div class="field-items"><div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-room-slots-types-allowed clearfix" about="/field-collection/field-room-slots-types-allowed/158" typeof="">
+  <div class="content">
+    <div class="field field-name-field-slot-types-time-slot field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">Tuesday, May 15, 2018 - 14:00 to 14:35</div></div></div>  </div>
+</div>
+</div></div></div>  </div>
+    </div>
+  </fieldset>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-24">
+          </div>
+  </div>
+    <footer>
+          </footer>
+    </article>  </div>
+
+</section> <!-- /.block -->
+  </div>
+                  </div>
+
+        
+            </section>
+
+          
+          
+    </div>
+  </div>
+
+    <div class="container-fluid">
+      <div class="region region-content-suffix-fluid solstice-region-element-count-2 row">
+    <section id="block-views-eclipsecon-sponsors-block" class="block block-views block-region-content-suffix-fluid  view-eclipsecon-sponsors-block-common view-eclipsecon-sponsors-block clearfix">
+
+        <h2 class="block-title"><a href="../sponsors.html">Our Sponsors</a></h2>
+    
+  <div class="block-content">
+    <div class="view view-eclipsecon-sponsors view-id-eclipsecon_sponsors view-display-id-block container view-dom-id-f3cbbd126e6bc4f19ebee7fa279f49b6">
+            <div class="view-header">
+      For information about becoming a sponsor, please visit the FOSS4G NA 2018 <a href="../prospectus.html">sponsor prospectus</a> page.    </div>
+  
+  
+  
+      <div class="view-content">
+      
+    <div class="wrapper-sponsor-level">              <h3><span>Platinum</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/ibm.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/ibm%20logo%20transparent_1aa95.png?itok=OYAVLQUQ" width="220" height="77" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even">  
+  <div>        <div><a href="../sponsor/radiant-solutions.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/radiantsolutions%20negative86bc.png?itok=nrzEQ0Ql" width="220" height="82" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-3 views-row-odd">  
+  <div>        <div><a href="../sponsor/boundless.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/updated%20BoundlessLogo20184d91.png?itok=Qxg7pjwR" width="220" height="41" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div>        <div><a href="../sponsor/red-hat-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Red_Hat_RGB_150px_131a7.png?itok=sTuHYE87" width="220" height="70" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Gold</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/location-tech.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Kopie%20van%20LocationTech_logo_1422_07a57.png?itok=s0yp7uJo" width="220" height="39" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even">  
+  <div>        <div><a href="../sponsor/osgeo.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/osgeo-logo-rgb_07506.png?itok=XcNFs0Bg" width="220" height="72" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div>        <div><a href="../sponsor/amazon-web-services-aws.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/AWS_logo_RGBfdd1.png?itok=8vl8mCmY" width="220" height="132" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Silver</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/planet.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Planet_logo_CMYKcoated_Rca26.png?itok=wa2RDNN5" width="220" height="108" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even">  
+  <div>        <div><a href="../sponsor/oracle.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/O_signature_whtonred85cc.gif?itok=8n47tvg8" width="220" height="67" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-3 views-row-odd">  
+  <div>        <div><a href="../sponsor/crunchy-data-solutions.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Crunchy%20Logo%20File%20(Enterprise%20PostgreSQL)b5ab.png?itok=ECRGo3Am" width="220" height="77" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div>        <div><a href="../sponsor/environmental-systems-research-institute-inc-esri.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/esri-17GlobeLogo_tag-below_sRGBf842.jpg?itok=BN5ypaal" width="220" height="128" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Bronze</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/colaberry.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Blue3b55.png?itok=iZe6Pgrk" width="220" height="59" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even">  
+  <div>        <div><a href="../sponsor/oak-ridge-institute-science-and-education.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/ORISE-logo0398.png?itok=yUD4Dq53" width="220" height="32" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-3 views-row-odd">  
+  <div>        <div><a href="../sponsor/bentley-systems-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Bentley_logo_4C_complete_0fe1e.jpg?itok=6Bk3ccmo" width="220" height="51" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-4 views-row-even">  
+  <div>        <div><a href="../sponsor/azavea-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/azavea_RGB_72dpi_trans_lg5052.png?itok=RDKqW_E9" width="220" height="54" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-5 views-row-odd">  
+  <div>        <div><a href="../sponsor/terranodo-llc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/terranodo_logo_landscape_1_rgb_600_6004f6c.png?itok=zrCzHhXE" width="220" height="80" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-6 views-row-even">  
+  <div>        <div><a href="../sponsor/cesium.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Cesium_Logo_Colorb3db.jpg?itok=cV6ZeVUC" width="220" height="56" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-7 views-row-odd">  
+  <div>        <div><a href="../sponsor/astraea-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/astraea28839.png?itok=vDsyQG0H" width="220" height="182" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-8 views-row-even">  
+  <div>        <div><a href="../sponsor/national-geospatial-intelligence-agency-nga.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/NGA_Seal_150dpi747c.jpg?itok=OxPfVrLq" width="220" height="220" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-9 views-row-odd">  
+  <div>        <div><a href="../sponsor/ccri.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/A%20CCRi%20Base%20Logo2ac1e.png?itok=gf_2JXC5" width="220" height="111" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-10 views-row-even">  
+  <div>        <div><a href="../sponsor/mapd-technologies-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/MapD%20logofafb.png?itok=7UJQ9Lum" width="220" height="183" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-11 views-row-odd">  
+  <div>        <div><a href="../sponsor/carto.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Copy%20of%20logo_carto_positive_180%20(3)739b.png?itok=Tj08LE4v" width="220" height="86" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-12 views-row-even views-row-last">  
+  <div>        <div><a href="../sponsor/university-kentucky-new-maps-plus.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/NewMapsPlus%20Logo-Cyan%20w-UKA%26S-Scaled5363.png?itok=hb6cu2wS" width="220" height="131" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Mapping Theme Day</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div>        <div><a href="../sponsor/applied-geographics-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/appgeo%20logo_0302f.png?itok=PXC9u--S" width="220" height="61" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Community</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/sparkgeo.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/sparkgeo_title934b.png?itok=5s9qINpo" width="220" height="56" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even">  
+  <div>        <div><a href="../sponsor/t-rex.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/T-Rex_Vector%20(1)-09_07400.png?itok=BktJja0K" width="220" height="113" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div>        <div><a href="../sponsor/boundless-0.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/BoundlessLogo_05f09.png?itok=_-C2wIiZ" width="220" height="41" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Supporter</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <div><a href="../sponsor/safe-software-inc.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/Safe_RGB62ff.png?itok=vZKXFvLN" width="220" height="113" alt="" /></a></div>  </div></li>
+                  <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div>        <div><a href="../sponsor/ogsystems.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/OGS%20Standard%20logo%20PNG2695.png?itok=_mTsklq9" width="220" height="27" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+
+    <div class="wrapper-sponsor-level">              <h3><span>Conference App Provider</span></h3>
+            <ul class="list-inline">                  <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div>        <div><a href="../sponsor/eclipsesource.html"><img typeof="foaf:Image" class="img-responsive" src="../sites/default/files/styles/medium/public/EclipseSourcea293.png?itok=n4U_BdsY" width="220" height="49" alt="" /></a></div>  </div></li>
+              </ul>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</section> <!-- /.block -->
+<section id="block-eclipsecon-support-event-info-eclipsecon-support-other-event" class="block block-eclipsecon-support-event-info block-region-content-suffix-fluid  block-eclipsecon-support-other-event clearfix">
+
+        <h2 class="block-title">EclipseCon Support Other Events</h2>
+    
+  <div class="block-content">
+    
+<div class="text-center">
+  <h2><span>Our Other Events</span></h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-24">
+        <p class="intro">Eclipse events are hosted all over the world!</p>
+        <ul class="eclipse-event-info-other-conferences list-inline row"><li class="col-xs-24 list-ece2018 first last"><a href="https://www.eclipsecon.org/europe2018" class="margin-top-15" style="margin:0 auto;"><img class="img-responsive center-block" src="../sites/all/modules/custom/eclipsecon_support/eclipsecon_support_event_info/images/ece2018.png" alt="EclipseCon Europe 2018" title="EclipseCon Europe 2018" /></a></li>
+</ul>        <ul class="eclipse-event-info-other list-inline clearfix margin-left-5"><li class="0 first"><a href="https://events.eclipse.org/" class="btn rounded btn-info">All Events</a></li>
+<li class="1 last"><a href="../community/past-eclipsecon.html" class="btn rounded btn-info">Past Conferences</a></li>
+</ul>      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+</section> <!-- /.block -->
+  </div>
+  </div>
+  
+</main>
+
+<p id="back-to-top" class="hidden-print">
+  <a class="visible-xs" href="#top">Back to the top</a>
+</p>
+
+  <footer role="contentinfo" id="solstice-footer">
+  <div class="container">
+    <div class="row">
+
+      <section  id="footer-eclipse-foundation" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Eclipse Foundation</h2><ul class="nav"><li class="link_about first"><a href="http://www.eclipse.org/org/">About Us</a></li>
+<li class="link_contact"><a href="http://www.eclipse.org/org/foundation/contact.php">Contact Us</a></li>
+<li class="link_donate"><a href="http://www.eclipse.org/donate">Donate</a></li>
+<li class="link_gouvernance"><a href="http://www.eclipse.org/org/documents/">Governance</a></li>
+<li class="link_logo"><a href="http://www.eclipse.org/artwork/">Logo and Artwork</a></li>
+<li class="link_board last"><a href="http://www.eclipse.org/org/foundation/directors.php">Board of Directors</a></li>
+</ul>              </section>
+
+      <section  id="footer-legal" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Legal</h2><ul class="nav"><li class="link_privacy first"><a href="http://www.eclipse.org/legal/privacy.php">Privacy Policy</a></li>
+<li class="link_terms"><a href="http://www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li>
+<li class="link_copyright"><a href="http://www.eclipse.org/legal/copyright.php">Copyright Agent</a></li>
+<li class="link_epl"><a href="http://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a></li>
+<li class="link_legal last"><a href="http://www.eclipse.org/legal/">Legal Resources</a></li>
+</ul>              </section>
+
+      <section  id="footer-useful-links" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Useful Links</h2><ul class="nav"><li class="link_bugs first"><a href="http://bugs.eclipse.org/bugs/">Report a Bug</a></li>
+<li class="link_help"><a href="http://help.eclipse.org/">Documentation</a></li>
+<li class="link_contribute"><a href="http://www.eclipse.org/contribute/">How to Contribute</a></li>
+<li class="link_mail"><a href="http://www.eclipse.org/mail/">Mailing Lists</a></li>
+<li class="link_forums"><a href="http://www.eclipse.org/forums/">Forums</a></li>
+<li class="link_marketplace last"><a href="http://marketplace.eclipse.org/">Marketplace</a></li>
+</ul>              </section>
+
+      <section  id="footer-other" class="col-xs-24 col-md-11 footer-other-working-groups col-md-offset-1 hidden-print">
+                  <div class="col-sm-10 col-xs-offset-1 col-md-11 col-md-offset-1 footer-working-group-col" id="footer-working-group-left"><span><a href="../index.html" title="Home"><img class="logo-eclipse-default img-responsive" src="../sites/all/themes/solstice/_themes/solstice_eclipsecon_foss4g2018/logo.png" alt="Home" /></a></span>
+<span></span>
+<a href="https://twitter.com/foss4gna" class="twitter-follow-button" data-show-count="false">Follow @foss4gna</a></div><div class="col-sm-10 col-xs-offset-1 col-sm-offset-3 col-md-11 col-md-offset-1 footer-working-group-col"><div><span><a href="http://osgeo.org/"><img class="img-responsive padding-bottom-10" src="../sites/all/themes/solstice/public/images/osgeo/logo.png" alt="OSGeo" /></a></span>
+<span><a href="https://www.locationtech.org/"><img class="img-responsive" src="../sites/all/themes/solstice/public/images/locationtech/LocationTech_Logo_500.png" alt="Locationtech" /></a></span>
+</div><p class="padding-top-15"><a href="https://foss4g-na.org/">FOSS4G North America</a> is brought to you by <a href="http://www.osgeo.org/">OSGeo</a> and <a href="https://www.locationtech.org/">LocationTech</a>, an Eclipse Foundation Industry Working Group, with the support of our sponsors. <br> Powered by <a href="http://drupal.org/">Drupal</a> and built on <a href="http://usecod.com/">COD</a>.</p>
+</div>             </section>
+
+     
+      <a href="#" class="scrollup">Back to the top</a>
+    </div>
+  </div>
+</footer>
+  <script src="../sites/default/files/js/js_h-4Mn7JIK-DSMPX7jbvov_FS-R7-oz9CjZIAFsHsVbo.js"></script>
+</body>
+
+<!-- Mirrored from 2018.foss4g-na.org/node/2961 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Oct 2018 15:17:46 GMT -->
+</html>

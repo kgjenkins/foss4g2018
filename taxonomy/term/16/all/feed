@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/16/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Bronze</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/16/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/16/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>National Geospatial-Intelligence Agency (NGA)</title>
+    <link>https://2018.foss4g-na.org/sponsor/national-geospatial-intelligence-agency-nga</link>
+    <description></description>
+     <pubDate>Thu, 19 Apr 2018 15:44:17 +0000</pubDate>
+ <dc:creator>Jake Sheridan (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3071 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Oak Ridge Institute for Science and Education</title>
+    <link>https://2018.foss4g-na.org/sponsor/oak-ridge-institute-science-and-education</link>
+    <description></description>
+     <pubDate>Thu, 12 Apr 2018 19:15:20 +0000</pubDate>
+ <dc:creator>Jake Sheridan (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3065 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Terranodo LLC</title>
+    <link>https://2018.foss4g-na.org/sponsor/terranodo-llc</link>
+    <description></description>
+     <pubDate>Tue, 13 Mar 2018 15:46:01 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3048 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Carto</title>
+    <link>https://2018.foss4g-na.org/sponsor/carto</link>
+    <description></description>
+     <pubDate>Mon, 12 Mar 2018 17:43:00 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3046 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>University of Kentucky-New Maps Plus</title>
+    <link>https://2018.foss4g-na.org/sponsor/university-kentucky-new-maps-plus</link>
+    <description></description>
+     <pubDate>Thu, 08 Mar 2018 18:52:40 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3042 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Bentley Systems, Inc.</title>
+    <link>https://2018.foss4g-na.org/sponsor/bentley-systems-inc</link>
+    <description></description>
+     <pubDate>Wed, 07 Mar 2018 20:39:37 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3041 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Colaberry</title>
+    <link>https://2018.foss4g-na.org/sponsor/colaberry</link>
+    <description></description>
+     <pubDate>Tue, 06 Mar 2018 18:28:46 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3027 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>MapD Technologies, Inc</title>
+    <link>https://2018.foss4g-na.org/sponsor/mapd-technologies-inc</link>
+    <description></description>
+     <pubDate>Mon, 26 Feb 2018 17:33:41 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2954 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Astraea Inc</title>
+    <link>https://2018.foss4g-na.org/sponsor/astraea-inc</link>
+    <description></description>
+     <pubDate>Wed, 14 Feb 2018 15:34:45 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2932 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>CCRi</title>
+    <link>https://2018.foss4g-na.org/sponsor/ccri</link>
+    <description></description>
+     <pubDate>Thu, 01 Feb 2018 19:57:04 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2791 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Cesium</title>
+    <link>https://2018.foss4g-na.org/sponsor/cesium</link>
+    <description></description>
+     <pubDate>Mon, 08 Jan 2018 18:21:16 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2738 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Azavea Inc</title>
+    <link>https://2018.foss4g-na.org/sponsor/azavea-inc</link>
+    <description></description>
+     <pubDate>Thu, 19 Oct 2017 01:15:03 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2697 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>

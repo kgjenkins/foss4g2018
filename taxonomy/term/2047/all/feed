@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/2047/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>couchdb</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/2047/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/2047/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Managing an autonomous bus transit network with FOSS</title>
+    <link>https://2018.foss4g-na.org/session/managing-autonomous-bus-transit-network-foss</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Early this year IBM showed a vision of the future of autonomous bus transit networks at the Consumer Electronics Show. The exhibit featured a real Olli bus and a bus stop that adapted to the accessibility needs of the rider. Whether you are young or old, blind or deaf, cognitively impaired, wheelchair-bound or color-blind, the intelligent Olli bus stop adapts to your needs and makes it easy to call for a bus, know when it will arrive, find points of interest near your destination, and get on and off safely. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/2813&quot;&gt;Raj Singh (IBM)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/foss4g-use-cases-applications&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;FOSS4G Use Cases &amp;amp; Applications&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 07 Feb 2018 20:32:56 +0000</pubDate>
+ <dc:creator>Raj Singh (IBM)</dc:creator>
+ <guid isPermaLink="false">2819 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>

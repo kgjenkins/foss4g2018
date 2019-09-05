@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/15/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Silver</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/15/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/15/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Environmental Systems Research Institute, Inc. (ESRI)</title>
+    <link>https://2018.foss4g-na.org/sponsor/environmental-systems-research-institute-inc-esri</link>
+    <description></description>
+     <pubDate>Mon, 07 May 2018 12:59:40 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3085 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Planet</title>
+    <link>https://2018.foss4g-na.org/sponsor/planet</link>
+    <description></description>
+     <pubDate>Mon, 05 Mar 2018 18:59:54 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">3026 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Crunchy Data Solutions</title>
+    <link>https://2018.foss4g-na.org/sponsor/crunchy-data-solutions</link>
+    <description></description>
+     <pubDate>Fri, 16 Feb 2018 17:35:33 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2945 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Oracle</title>
+    <link>https://2018.foss4g-na.org/sponsor/oracle</link>
+    <description></description>
+     <pubDate>Tue, 05 Dec 2017 18:58:00 +0000</pubDate>
+ <dc:creator>Perri Lavergne (Eclipse Foundation)</dc:creator>
+ <guid isPermaLink="false">2705 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>

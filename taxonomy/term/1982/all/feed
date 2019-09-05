@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2018.foss4g-na.org/taxonomy/term/1982/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>ogc</title>
+    <link>https://2018.foss4g-na.org/taxonomy/term/1982/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://2018.foss4g-na.org/taxonomy/term/1982/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Replace the Shapefile, an Introduction to the GeoPackage</title>
+    <link>https://2018.foss4g-na.org/session/replace-shapefile-introduction-geopackage</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This talk will provide an introduction to the OGC GeoPackage file format. It will discuss many of the advantages of the GeoPackage over the ubiquitous Shapefile for vector data as well as its use for storing raster data.&lt;/p&gt;
+&lt;p&gt;This talk will address compatibility of the GeoPackage with Open Source and Proprietary GIS solutions.&lt;/p&gt;
+&lt;p&gt;This talk will discuss how GeoPackage fits in with overlapping technologies SQLite, MBTiles, and Spatialite.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/2616&quot;&gt;David Bitner&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/lessons-learned-best-practices-costs-benefits&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lessons Learned: Best Practices, Costs &amp;amp; Benefits&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Feb 2018 22:10:32 +0000</pubDate>
+ <dc:creator>David Bitner</dc:creator>
+ <guid isPermaLink="false">2937 at https://2018.foss4g-na.org</guid>
+  </item>
+  <item>
+    <title>Using Blockchain in Geospatial Applications</title>
+    <link>https://2018.foss4g-na.org/session/using-blockchain-geospatial-applications</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Blockchain is a digital decentralized registry of electronic transactions that are secure and verifiable. The technology is used to record cryptocurrency transactions (e.g. Bitcoin) and smart contracts as well as others; however, very little has been documented about how blockchain can be used in the context of geospatial applications. This talk will discuss three topics, related to using free open geospatial standards in blockchain.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/2707&quot;&gt;Luis Bermudez&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/foss4g-use-cases-applications&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;FOSS4G Use Cases &amp;amp; Applications&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 15 Jan 2018 19:38:47 +0000</pubDate>
+ <dc:creator>Luis Bermudez</dc:creator>
+ <guid isPermaLink="false">2779 at https://2018.foss4g-na.org</guid>
+  </item>
+  </channel>
+</rss>
